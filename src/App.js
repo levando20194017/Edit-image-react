@@ -14,7 +14,6 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <h1>Pintura Image Editor</h1>
         <nav>
           <ul>
             <li>
